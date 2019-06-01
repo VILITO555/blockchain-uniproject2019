@@ -93,6 +93,7 @@ https://arstechnica.com/information-technology/2013/05/wary-of-bitcoin-a-guide-t
 Езици за програмиране:
 
 python
+
 C++
 
 
