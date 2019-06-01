@@ -77,16 +77,16 @@ Litecoin използва алгоритъма Scrypt, за разлика от 
 Litecoin не е толкова разпространен, колкото Bitcoin и Ethereum, така че неговото приемане се случва с много по-бавни темпове. 
 Въпреки това криптовалутата се сдобива с по-голяма тежест и  приемането му като платежно 
 средство също се очаква да нарасне. В момента има няколко места, които приемат LTC.
+Понастоящем поддръжката на валутата е ограничена до местата, където Bitcoin е била ограничена в първите си дни-selitecoin.com
+изброява казина и криптовалутни новинарски сайтове, като Pirate Bay е най-известният поддръжник.
 
-Benz and Beemer
 
-eGifter
-
-Alza.cz
 
 Links:
 
 https://litecoin.org/
+https://en.wikipedia.org/wiki/Litecoin
+https://arstechnica.com/information-technology/2013/05/wary-of-bitcoin-a-guide-to-some-other-cryptocurrencies/
 
 Езици за програмиране:
 
