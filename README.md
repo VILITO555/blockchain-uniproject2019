@@ -85,7 +85,9 @@ Litecoin не е толкова разпространен, колкото Bitco
 Links:
 
 https://litecoin.org/
+
 https://en.wikipedia.org/wiki/Litecoin
+
 https://arstechnica.com/information-technology/2013/05/wary-of-bitcoin-a-guide-to-some-other-cryptocurrencies/
 
 Езици за програмиране:
